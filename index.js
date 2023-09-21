@@ -85,3 +85,4 @@ function restartGam(){
     userSeq=[];
     level=0;
 }
+// check new comment
