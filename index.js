@@ -1,3 +1,4 @@
+//here we have two array first for game and 2nd for user
 let gameSeq=[];
 let userSeq=[];
 
