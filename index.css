@@ -13,20 +13,20 @@ body{
    border-radius: 20px;
 }
 .blue{
-    background-color: blue;
+    background-color: #36EEE0;
 }
 .brown{
-    background-color: brown;
+    background-color: #F652A0;
 }
 .aqua{
-    background-color: aqua;
+    background-color: #4C5270;
 }
 .red{
-    background-color: red;
+    background-color: #00ff04c6;
 }
 .flash{
     background-color:white;
 }
 .userFlash{
-    background-color: green;
+    background-color: white;
 }
